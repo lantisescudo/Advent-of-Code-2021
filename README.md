@@ -10,8 +10,17 @@ I initially did Day 1 using the LibreOffice Calc spreadsheet because something w
 ##### Day 4
 Was out of the house most of the day, so had to do Day 4 on Day 5
 
+##### Day 5
+Solution requires re package.
+
 ##### Day 11
 Was away on vacation Day 11, so did it the evening of Day 12
 
 ##### Day 12
 Was away on vacation most of the day, so did Part 1 that evening. Part 2 was initially done as a (very slow) breadth-first search, so I left it to run overnight and submitted the answer in the morning of Day 13. I redid it with a depth-first search later on Day 13.
+
+##### Day 14
+Part 2 took a lot longer than planned and wasn't finished until Day 15.
+
+##### Day 15
+Solution requires networkx package.
