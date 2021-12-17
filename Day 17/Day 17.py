@@ -16,7 +16,7 @@ def step(X,Y,vX,vY):
 hits = []
 
 for vx in range(max(targetX)):
-    for vy in range(2*(max(targetY)-min(targetY))):
+    for vy in range(-max(max(targetY),abs(min(targetY))),max(max(targetY),abs(min(targetY)))):
         pos = [0,0,vx,vy]
         isHit = False
         isMiss = False
